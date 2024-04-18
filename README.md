@@ -24,7 +24,7 @@ IOS Swift UI/Storyboard, Compose
 
 
 ### How to reach me 📱
-Known on internet as [**Numansfolio**](https://www.numansfolio.ml/) 
+Known on internet as [**Farazsfolio**](https://www.farazsfolio.ml/) 
 
 [<img target="_blank" src="https://img.icons8.com/cotton/64/000000/whatsapp--v4.png"/>](https://wa.me/923135362613) [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/skype--v1.png"/>](https://join.skype.com/invite/gCRltuKGwexd) [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/faraz-hussain-188850121/)[<img target="_blank" src="https://img.icons8.com/doodle/64/000000/instagram.png"/>](https://www.instagram.com/welcome.faraz/)
 
