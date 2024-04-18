@@ -7,7 +7,7 @@ Currently Working in : Open to Work
 Organizations I have worked on :  [**Leed | Software Development Company**](https://www.leeddev.io/), [**ItInnovationsStudios**],  [**Solution of Technologies**] and [**Ten Byte**]  
 
 ### Currently learning
-IOS Swift UI/Storyboard, Compose
+KMM, Jetpack Compose
 
 ### Things I'm good at:
 **Languages:** Android Kotlin, Java.
@@ -20,7 +20,7 @@ IOS Swift UI/Storyboard, Compose
 **Libraries & Tools Python:** NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, Seaborn, Plotly Keras, Tensorflow, Google Colab.
 
 #### Resume
-[![**Resume**][(https://drive.google.com/file/d/1TbJPPSRU12RZwwsD_pGJDUm-wwDEMW6W/view?usp=sharing)]
+[![**Resume**][[(https://drive.google.com/file/d/1TbJPPSRU12RZwwsD_pGJDUm-wwDEMW6W/view?usp=sharing)]](https://drive.google.com/file/d/1IZX1it51y3zB4BraN8d1lb8fBv3aW369/view?usp=drive_link)
 
 
 ### How to reach me 📱
