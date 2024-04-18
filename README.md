@@ -1,10 +1,10 @@
 ![**Hello there**](https://github.com/iNuman/GitHubStats/blob/master/hello.gif "Header")
 
-I’m a Computer Science graduate of 2020 batch as well as Android developer since 2018 enjoying each and every day of native development in both Kotlin and Java. I've developed countless apps for both clients as well as playstore. I came with an extensive experience of working on different technologies including Android Development and bit of Data Science, Machine Learning and Deep Learning.
+I’m a Computer Science graduate of 2017 batch as well as Android developer since 2017 enjoying each and every day of native development in both Kotlin and Java. I've developed countless apps for both clients as well as playstore. I came with an extensive experience of working on different technologies including Android Development and bit of Data Science, Machine Learning and Deep Learning.
 
-Currently Working in : [**Convo**](https://www.convo.com)
+Currently Working in : Open to Work
 
-Organizations I have worked on :  [**Leed | Software Development Company**](https://www.leeddev.io/), [**Funprime Technologies**](https://funprimetechnology.com/),  [**Lines Square Technologies**](https://linesquaretech.com/) and [**Khyber Coded**](http://khybercoded.com/)  
+Organizations I have worked on :  [**Leed | Software Development Company**](https://www.leeddev.io/), [**ItInnovationsStudios**],  [**Solution of Technologies**] and [**Ten Byte**]  
 
 ### Currently learning
 IOS Swift UI/Storyboard, Compose
@@ -20,13 +20,13 @@ IOS Swift UI/Storyboard, Compose
 **Libraries & Tools Python:** NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, Seaborn, Plotly Keras, Tensorflow, Google Colab.
 
 #### Resume
-[![**Resume**](https://github.com/iNuman/GitHubStats/blob/master/Resume.gif)](https://drive.google.com/file/d/1TbJPPSRU12RZwwsD_pGJDUm-wwDEMW6W/view?usp=sharing)
+[![**Resume**][(https://drive.google.com/file/d/1TbJPPSRU12RZwwsD_pGJDUm-wwDEMW6W/view?usp=sharing)]
 
 
 ### How to reach me 📱
 Known on internet as [**Numansfolio**](https://www.numansfolio.ml/) 
 
-[<img target="_blank" src="https://img.icons8.com/cotton/64/000000/whatsapp--v4.png"/>](https://wa.me/923127746663) [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/skype--v1.png"/>](https://join.skype.com/invite/UUZ8rtYW9Z0l) [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/-inuman/)[<img target="_blank" src="https://img.icons8.com/doodle/64/000000/instagram.png"/>](https://www.instagram.com/inoumn/)
+[<img target="_blank" src="https://img.icons8.com/cotton/64/000000/whatsapp--v4.png"/>](https://wa.me/923135362613) [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/skype--v1.png"/>](https://join.skype.com/invite/gCRltuKGwexd) [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/faraz-hussain-188850121/)[<img target="_blank" src="https://img.icons8.com/doodle/64/000000/instagram.png"/>](https://www.instagram.com/welcome_faraz/)
 
 
 
